@@ -1,6 +1,3 @@
-# Video_conf_ScreenShare
-
-# Demo Video:- [https://youtu.be/Ko4USnmSxEU]
 
 requirements:
  1. node.js,
