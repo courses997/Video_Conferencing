@@ -9,19 +9,18 @@ language i use to buid:
  1. html
  2. css
  3. js
- 
-steps to start api:
-  1. step1: "open command line in your source code downloaded folder" 
-  
-  2. step2: npm install -"use this command to install all dependence"
-  
-  3. step3: nodemon index.js "or" npm start -"type this to start local server"
-  
-  4. step4: "Turn on wifi or any internet connectivity to get some online dependency"
 
-  5. step5: "open Browser and type"  localhost:3000   
+#steps to setup the project
 
-#Request 
-  1. This is open source project so add your ideas.
-  
-  2. I am currently working on quick quiz and PDF/file share option. If you know how to do this please add in this code.
+check the node version(node version must be above 18.X)
+node -v
+
+install node modules on project
+npm install
+
+to start the project
+npm start
+
+open Browser and type
+localhost:3000
+
