@@ -16,11 +16,11 @@ check the node version(node version must be above 18.X)
 `node -v`
 
 install node modules on project
-npm install
+`npm install`
 
 to start the project
-npm start
+`npm start`
 
 open Browser and type
-localhost:3000
+`localhost:3000`
 
