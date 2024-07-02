@@ -13,7 +13,7 @@ language i use to buid:
 #steps to setup the project
 
 check the node version(node version must be above 18.X)
-node -v
+`node -v`
 
 install node modules on project
 npm install
